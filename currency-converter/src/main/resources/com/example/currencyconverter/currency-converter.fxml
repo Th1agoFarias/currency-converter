@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+
+<?import java.lang.String?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.currencyconverter.CurrencyConverterController">
+    <padding>
+        <javafx.geometry.Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <Label text="Value in Brazilian Real:"/>
+    <TextField fx:id="txtValueReal"/>
+
+    <Label text="Choose the currency for conversion:"/>
+    <ComboBox fx:id="cmbCurrency">
+        <items>
+            <FXCollections fx:factory="observableArrayList">
+                <String fx:value="US Dollar"/>
+                <String fx:value="Euro"/>
+                <String fx:value="British Pound"/>
+                <String fx:value="Argentine Peso"/>
+                <String fx:value="Chilean Peso"/>
+            </FXCollections>
+        </items>
+    </ComboBox>
+
+    <Button text="Convert" onAction="#convertCurrency"/>
+    <Label fx:id="lblResult" />
+</VBox>
