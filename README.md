@@ -8,16 +8,6 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Conversão de Dollar para Real   
-
-:heavy_check_mark: Conversão de Euro para Real  
-
-:heavy_check_mark: Conversão de Libra Esterlina para Real  
-
-:heavy_check_mark: Conversão de Peso argentino para Real 
-
-:heavy_check_mark: Conversão de Peso chileno para Real  
-
 :heavy_check_mark: Conversão de Real Dollar
 
 :heavy_check_mark: Conversão de Real Euro
