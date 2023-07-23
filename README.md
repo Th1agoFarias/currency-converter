@@ -21,7 +21,9 @@
 
 :heavy_check_mark: Conversão de Real Peso chileno
 
-<img align="center" src="currency-converter/img/video.gif">
+<p align="center">
+  <img src="currency-converter/img/video.gif" alt="GIF" width="400" height="300">
+</p>
 
 
 
