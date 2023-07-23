@@ -11,8 +11,6 @@
 </p>
 
 ## Funcionalidades
- <h2>Funcionalidades</h2>
-
 :heavy_check_mark: Conversão de Real Dollar
 
 :heavy_check_mark: Conversão de Real Euro
