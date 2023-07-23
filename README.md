@@ -1,7 +1,7 @@
 # Alura ONE - Oracle Next Education
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="currency-converter/img/badge.png" width="200" height="300">
+  <img src="currency-converter/img/badge.png" width="400" height="300">
 </div>
 
 ## Descrição do projeto 
