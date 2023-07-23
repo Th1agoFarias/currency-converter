@@ -1,7 +1,9 @@
-# Alura ONE - Oracle Next Education
+ Alura ONE - Oracle Next Education
 
-<img align="left" src="currency-converter/img/badge.png">
-
+<div style="display: flex;">
+  <img align="left" src="currency-converter/img/badge.png">
+  <h2>Funcionalidades</h2>
+</div>
 
 ## Descrição do projeto 
 
@@ -24,7 +26,6 @@
 <p align="center">
   <img src="currency-converter/img/video.gif" alt="GIF" width="400" height="300">
 </p>
-
 
 
 
