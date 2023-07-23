@@ -2,6 +2,8 @@
 
 <div style="display: flex;">
   <img align="left" src="currency-converter/img/badge.png">
+ <img align="left" src="currency-converter/img/logo_one.png">
+
   <h2>Funcionalidades</h2>
 </div>
 
@@ -27,7 +29,7 @@
   <img src="currency-converter/img/video.gif" alt="GIF" width="400" height="300">
 </p>
 
-im<img align="center" src="currency-converter/img/logo_one.png">
+<img align="center" src="currency-converter/img/logo_one.png">
 
 
 
