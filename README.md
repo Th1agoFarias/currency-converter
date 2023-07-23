@@ -2,7 +2,6 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="currency-converter/img/badge.png" width="100" height="100">
-  <h2>Funcionalidades</h2>
 </div>
 
 ## Descrição do projeto 
@@ -12,6 +11,7 @@
 </p>
 
 ## Funcionalidades
+ <h2>Funcionalidades</h2>
 
 :heavy_check_mark: Conversão de Real Dollar
 
