@@ -1,5 +1,6 @@
 # Alura ONE - Oracle Next Education
 
+<img align="right" src="currency-converter/img/badge.png">
 
 
 ## Descrição do projeto 
@@ -21,7 +22,6 @@
 :heavy_check_mark: Conversão de Real Peso chileno
 
 
-<img align="right" src="currency-converter/img/badge.png">
 
 
 
