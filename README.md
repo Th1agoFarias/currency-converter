@@ -25,7 +25,7 @@
   <img src="currency-converter/img/video.gif" alt="GIF" width="400" height="300">
 </p>
 
-<img src="currency-converter/img/logo_one.png" width="100" height="200" style="margin-right: 20px;">
+<img src="currency-converter/img/logo_one.png" width="100" height="300";">
 
 
 
