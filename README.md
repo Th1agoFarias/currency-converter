@@ -1,6 +1,6 @@
 # Alura ONE - Oracle Next Education
 
-
+<img align="left" src="currency-converter/img/badge.png">
 
 
 ## Descrição do projeto 
