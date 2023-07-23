@@ -1,9 +1,8 @@
- Alura ONE - Oracle Next Education
+# Alura ONE - Oracle Next Education
 
-<div style="display: flex;">
-  <img align="left" src="currency-converter/img/badge.png">
- <img align="left" src="currency-converter/img/logo_one.png"width="400" height="300" >
-
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="currency-converter/img/badge.png" width="100" height="100">
+  <img src="currency-converter/img/logo_one.png" width="400" height="300" style="margin-right: 20px;">
   <h2>Funcionalidades</h2>
 </div>
 
@@ -29,7 +28,7 @@
   <img src="currency-converter/img/video.gif" alt="GIF" width="400" height="300">
 </p>
 
-<img align="center" src="currency-converter/img/logo_one.png">
+
 
 
 
